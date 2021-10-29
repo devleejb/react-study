@@ -10,4 +10,4 @@
 
 ![React Tutorial](react-tutorial/images/tictactoc.jpg)
 
-- React Tutorial (/react-tutorial) [Tutorial](https://reactjs.org/tutorial/tutorial.html) / [Notion](https://distinct-bulb-c95.notion.site/React-91f8d26768b94fb2a0aa272c01d18df1) / [소스 코드( index.js )](../index.js)
+- React Tutorial (/react-tutorial) [Tutorial](https://reactjs.org/tutorial/tutorial.html) / [Notion](https://distinct-bulb-c95.notion.site/React-91f8d26768b94fb2a0aa272c01d18df1) / [소스 코드( index.js )](react-tutorial/src/index.js)
